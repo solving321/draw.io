@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3">
+  <diagram name="Page-1" id="VQlp08qM9w9PPeW9aXt8">
+    <mxGraphModel dx="1194" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUaBlIFjVwM0snvcWa6K-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUaBlIFjVwM0snvcWa6K-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-2" value="video is running" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="170" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="eUaBlIFjVwM0snvcWa6K-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUaBlIFjVwM0snvcWa6K-5" target="eUaBlIFjVwM0snvcWa6K-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-5" value="User Clicked" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUaBlIFjVwM0snvcWa6K-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUaBlIFjVwM0snvcWa6K-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-6" value="JS started the video" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-11" value="Event Listener present" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="410" y="320" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-12" value="Event Listener not present" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="430" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="eUaBlIFjVwM0snvcWa6K-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="eUaBlIFjVwM0snvcWa6K-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-16" value="Case not possible" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="482.5" y="45" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-17" value="Event Listener present" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-18" value="Event Listener not present" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="120" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-19" value="Not a violation." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="195" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eUaBlIFjVwM0snvcWa6K-21" target="eUaBlIFjVwM0snvcWa6K-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUaBlIFjVwM0snvcWa6K-21" target="eUaBlIFjVwM0snvcWa6K-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="-5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-21" value="Video Element" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="7.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-23" value="No Autoplay using HTML CSS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="115" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-24" value="Autoplay using HTML CSS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="-37.5" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-26" value="Autoplaying video - no controls - not paused" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="42.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-27" value="Can not differentiate if user induced the event listener, without Mutation Observer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="340" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-30" value="Correct Violation ✅&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-31" value="Induced due to JS from another element&#39;s click&lt;div&gt;Wrong Violation ❌&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUaBlIFjVwM0snvcWa6K-6" target="eUaBlIFjVwM0snvcWa6K-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="510" as="targetPoint" />
+            <mxPoint x="330" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUaBlIFjVwM0snvcWa6K-13" value="Contendor of consideration" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="285" y="480" width="90" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
