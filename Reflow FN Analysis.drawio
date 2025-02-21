@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.15">
+  <diagram name="Page-1" id="icnFVKls0Ds-sF-nR6s-">
+    <mxGraphModel dx="954" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-1" value="Initial POC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-3" value="Initial POC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="218" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-4" value="False Positive" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="236" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-5" value="False positive major bucket 95% are due to infra limitation. Have nothing to do with POC.&lt;div&gt;&lt;br&gt;WHY?&lt;div&gt;We don&#39;t have any action item on us due to rule&#39;s limitation.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="462" width="290" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-7" value="False Positive" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="505" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="487" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-9" value="JS heuristic removed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="700" as="sourcePoint" />
+            <mxPoint x="280" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-14" value="False Negative" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="20" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-17" value="Initial POC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-18" value="Initial POC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="720" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-19" value="Initial POC + JS Heuristic" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="727.5" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-20" value="&lt;b&gt;-&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="775" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-21" value="Actual False Negatives" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="762.5" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-22" value="&lt;b&gt;=&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="775" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-27" value="&lt;b&gt;QA tushar&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oIfgvhGtvsSYGAJKLYSW-28" value="&lt;b&gt;PROD&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
