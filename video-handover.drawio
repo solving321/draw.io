@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="1XwIfK2VXai0_S2h9p-w">
+    <mxGraphModel dx="1781" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vQTN89HJKVibdqBmJPFI-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-130" width="740" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-1" value="Video" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="186" y="130" width="434" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-2" value="Stop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-3" value="Transition / Transform Property" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="-90" width="144" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-4" value="Transition / Transform Property" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="-90" width="144" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-5" value="Transition / Transform Property" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="604" y="-90" width="144" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-6" value="Transition / Transform Property" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-90" width="144" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-380" width="740" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-9" value="Transition / Transform Property" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="-340" width="144" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-10" value="Transition / Transform Property" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="-340" width="144" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-11" value="Transition / Transform Property" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="604" y="-340" width="144" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-12" value="Transition / Transform Property" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-340" width="144" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-13" value="Re-Trigger Mechanism on each child node" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="292" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-14" value="Re-Trigger Mechanism on parent node" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="-440" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-15" value="Re-Trigger Mechanism on each child node" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="132" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-16" value="Re-Trigger Mechanism on each child node" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-17" value="Re-Trigger Mechanism on each child node" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-18" value="DOM check currentSrc" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-19" value="DOM check Paused" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-20" value="DOM check Autoplay" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-21" value="Auto-Play" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="710" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vQTN89HJKVibdqBmJPFI-22" target="vQTN89HJKVibdqBmJPFI-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-22" value="DOM check currentSrc" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vQTN89HJKVibdqBmJPFI-23" target="vQTN89HJKVibdqBmJPFI-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-23" value="DOM check Paused" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vQTN89HJKVibdqBmJPFI-24" target="vQTN89HJKVibdqBmJPFI-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-24" value="DOM check Autoplay" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-25" value="is playing?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="485" y="720" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-26" value="Violation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-27" value="Needs Review" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-28" value="CSS Case" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="400" width="198" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-29" value="JS Case" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="430" width="198" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vQTN89HJKVibdqBmJPFI-30" target="vQTN89HJKVibdqBmJPFI-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-30" value="Auto-Playing / User Triggered" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-34" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-35" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQTN89HJKVibdqBmJPFI-36" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
